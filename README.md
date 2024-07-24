@@ -11,4 +11,4 @@
 #### -> Improve my proficiency in Android development.
 #### -> Gain practical experience by working on real-world projects.
 #### -> Develop a portfolio of Android applications that showcase my skills and creativity.
-#### -> Feel free to explore the code, provide feedback, or contribute to the projects. I am always open to learning and collaboration. Thank you for visiting my repository!
+### Feel free to explore the code, provide feedback, or contribute to the projects. I am always open to learning and collaboration. Thank you for visiting my repository!
