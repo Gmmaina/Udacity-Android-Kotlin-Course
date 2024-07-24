@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Gideon Maina</string>
+    <string name="nickname">What\'s your nickname?</string>
+    <string name="doneBtn">Done</string>
+    <string name="aboutMe">Gideon Maina is a 23-year-old passionate coder who is committed to improving his skills every day.
+        With a keen interest in technology, he spends much of his time exploring the latest advancements and honing his craft in programming.
+        Gideon\'s dedication to coding is matched by his enthusiasm for gaming, which provides both a creative outlet and a source of inspiration for his tech pursuits.
+        \n\nAs a tech enthusiast, Gideon is always eager to learn and grow in his field.
+        Whether it\'s diving into new coding languages or experimenting with innovative tech solutions,
+        he is constantly pushing himself to achieve greater heights.
+        His love for gaming not only fuels his creativity but also keeps him in tune with the latest trends in the tech world. Gideon\'s
+        relentless drive to improve and his passion for technology make him a dynamic and promising individual in the ever-evolving tech landscape.
+    </string>
+</resources>
